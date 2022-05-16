@@ -9,6 +9,7 @@
 
 ## Estrutura de arquivos e pastas do Tema
 
+```bash
 .
 ├── assets
 │   ├── css
@@ -56,7 +57,7 @@
 ├── config.php
 ├── environment.php
 ├── index.php
-
+```
 ## Instalação do projeto
 
 * Rode o git clone no link 
