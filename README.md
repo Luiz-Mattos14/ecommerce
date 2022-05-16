@@ -5,7 +5,7 @@
 
 👉 [https://devluizmattos.com/ecommerce/](https://devluizmattos.com/ecommerce/)
 
-![PrintScreen](assets/images/ecommerce.png)
+![PrintScreen]![ecommerce](https://user-images.githubusercontent.com/71785232/168507169-13d3e140-3fbe-4705-8401-27a0fc3e3ea0.png)
 
 ## Estrutura de arquivos e pastas do Tema
 
